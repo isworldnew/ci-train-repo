@@ -14,4 +14,6 @@ public class HelloController {
         return ResponseEntity.ok("Hello!");
     }
 
+    // имитация изменения
+
 }
